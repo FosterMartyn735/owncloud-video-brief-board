@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<info>
+  <id>video_brief_board</id>
+  <category>productivity</category>
+  <name>Video Brief Board</name>
+  <description>Create structured video briefs inside ownCloud and save them as portable JSON files in the current user's storage. Each brief captures the subject, intended motion, camera treatment, duration, aspect ratio, constraints, and review notes.</description>
+  <summary>Plan video shots and save portable briefs to ownCloud.</summary>
+  <licence>AGPL</licence>
+  <author>Martyn Foster</author>
+  <namespace>VideoBriefBoard</namespace>
+  <version>0.1.0</version>
+  <dependencies>
+    <owncloud min-version="10.0" max-version="10" />
+    <php min-version="7.4" />
+  </dependencies>
+  <website>https://kling3ai.co/</website>
+  <repository type="git">https://github.com/FosterMartyn735/owncloud-video-brief-board</repository>
+  <bugs>https://github.com/FosterMartyn735/owncloud-video-brief-board/issues</bugs>
+</info>
